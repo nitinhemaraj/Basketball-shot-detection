@@ -1,7 +1,7 @@
 # AI-basketball-shot-detection
 A project with YOLOv8 to detect and analyze basketball shots in real-time. The algorithm tracks the ball's motion, applies data-cleaning techniques, and predicts its trajectory using linear regression to register successful shots when intersecting with the hoop. It enhances playing experience and offers game analytics.
 
-https://github.com/nitinhemaraj/AI-basketball-shot-detection/assets/90787449/67719cc0-47da-443b-b05b-2c394cf37430
+https://github.com/nitinhemaraj/AI-basketball-shot-detection/assets/90787449/2c42261d-0b8b-4a95-a4c1-e67875397c21
 
 ## Introduction
 This project combines the power of Machine Learning and Computer Vision for the purpose of detecting and analyzing basketball shots in real-time! Built upon the latest YOLOv8 (You Only Look Once) machine learning model and the OpenCV library, the program can process video streams from various sources, such as live webcam feed or pre-recorded videos, providing a tool that can be used for an immersive playing experience and enhanced game analytics.
