@@ -17,11 +17,11 @@ To enhance the accuracy of the shot detection, the algorithm not only tracks the
 A linear regression is used to predict the ball's trajectory based on its positions. If the projected trajectory intersects with the hoop, the algorithm registers it as a successful shot.
 
 ## How to Use This Code
-Clone this repository to your local machine.
-Download the dataset specified in 'config.yaml' and adjust the paths in the configuration file to match your local setup.
-Follow the instructions in 'main.py' to train the model and prepare for shot detection.
-Run 'shot_detector.py' through your webcam or iPhone for real-time shot detection. Or input a video for shot detection analysis.
-Please ensure you have the required Python packages installed, including OpenCV, numpy, and ultralytics' YOLO.
+1. Clone this repository to your local machine.
+2. Download the dataset specified in 'config.yaml' and adjust the paths in the configuration file to match your local setup.
+3. Follow the instructions in 'main.py' to train the model and prepare for shot detection.
+4. Run 'shot_detector.py' through your webcam or a phone for real-time shot detection. Or input a video for shot detection analysis.
+5. Please ensure you have the required Python packages installed, including OpenCV, numpy, and ultralytics' YOLO.
 
 ### Score Detection Accuracy: 95%
 ### Shot Detection Accuracy: 97%
